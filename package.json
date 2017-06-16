@@ -1,0 +1,12 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "Jacob's first slack bot",
+  "main": "index.js",
+  "repository": "https://github.com/jisenber/slack-bot.git",
+  "author": "jisenber25@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/client": "^3.10.0"
+  }
+}
